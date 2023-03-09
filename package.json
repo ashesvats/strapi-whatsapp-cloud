@@ -1,6 +1,6 @@
 {
   "name": "@strapi/plugin-whatsapp-cloud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Integrate Whatsapp Cloud API into Strapi application",
   "strapi": {
     "name": "whatsapp-cloud",
